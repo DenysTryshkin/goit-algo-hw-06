@@ -76,7 +76,7 @@
 ### Завдання 1:
 
 # Аналіз транспортної мережі міст Європи
-![screenshoot] (./pictures/picture_task_1.png)
+![screenshot](./pictures/picture_task_1.png)
 
 ## Огляд
 
